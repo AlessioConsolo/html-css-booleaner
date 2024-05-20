@@ -45,3 +45,55 @@ ul {
 #blue {
   color: rgba(48, 175, 231, 255);
 }
+
+.yellow {
+  background-color: yellow;
+}
+
+ul {
+  margin-bottom: 20px;
+}
+
+thead {
+  color: white;
+  background-color: rgba(32, 169, 229, 255);
+}
+
+th {
+  text-align: left;
+}
+
+table {
+  margin-bottom: 20px;
+}
+
+main {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-bottom: 10px;
+}
+
+.bg-p {
+  color: white;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 18px;
+}
+
+.bg-image {
+  background-image: url("../img/monitor.jpg");
+  width: 200px;
+  height: 170px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.bg-image-two {
+  background-image: url("../img/graph.jpg");
+  width: 200px;
+  height: 170px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
