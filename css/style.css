@@ -41,3 +41,7 @@ h1 {
 ul {
   margin-left: 15px;
 }
+
+#blue {
+  color: rgba(48, 175, 231, 255);
+}
