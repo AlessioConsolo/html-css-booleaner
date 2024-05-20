@@ -65,10 +65,21 @@ th {
 
 table {
   margin-bottom: 20px;
+  border-collapse: collapse;
+}
+
+.tr-azzurro {
+  background-color: rgba(177, 229, 242, 255);
 }
 
 main {
   margin-bottom: 20px;
+}
+
+td {
+  height: 50px;
+  text-align: left;
+  padding-right: 100px;
 }
 
 footer {
